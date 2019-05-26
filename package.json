@@ -1,0 +1,28 @@
+{
+  "name": "Pokedex-Web-App",
+  "version": "1.0.0",
+  "description": "Pokedex Web App",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan-Rojas/Pokedex-Web-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryan-Rojas/Pokedex-Web-App/issues"
+  },
+  "homepage": "https://github.com/Bryan-Rojas/Pokedex-Web-App#readme"
+}
