@@ -4,6 +4,7 @@
   "description": "Pokedex Web App",
   "main": "index.js",
   "dependencies": {
+    "@material-ui/core": "^4.0.0-rc.0",
     "bootstrap": "^4.3.1",
     "isomorphic-unfetch": "^3.0.0",
     "next": "^8.1.0",
