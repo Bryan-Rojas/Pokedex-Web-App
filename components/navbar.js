@@ -1,10 +1,9 @@
 import {Navbar} from 'react-bootstrap'
 import {Nav} from 'react-bootstrap'
-import {NavDropdown} from 'react-bootstrap'
 
 const Navigation = () => (
-    <div>
-    <Navbar bg="light" expand="sm">
+    <div className="navigation">
+    <Navbar expand="sm">
         <div className="container">
             <Navbar.Brand href="/">Pokedex</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -16,7 +15,26 @@ const Navigation = () => (
             </Navbar.Collapse>
         </div>
     </Navbar>
-    </div>
-)
 
-export default Navigation
+    <style jsx global>{`
+        .navigation{
+            background-color: red;
+            color: white;
+            margin-bottom: 1.5em;
+        }
+        a{
+            color: white !important;
+        }
+        a:active{
+            color: black !important;
+        }
+        a:focus{
+            outline: none;
+            border-bottom: 5px solid black;
+        }
+    `}</style>
+
+    </div>
+);
+
+export default Navigation;
