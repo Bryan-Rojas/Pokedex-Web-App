@@ -2,7 +2,10 @@ import Layout from '../components/layout'
 
 const About = () => (
     <Layout>
-        wlecopme to aboutr
+        <strong>Resources:</strong>
+        <ul>
+            <li>Next.js (React Framework)</li>
+        </ul>
     </Layout>
 );
 

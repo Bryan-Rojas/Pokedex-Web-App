@@ -2,7 +2,7 @@ import Layout from '../components/layout'
 
 const Index = () => (
     <Layout>
-        wlecopme to home
+        Welcome to Bryan's Pokedex Web Application built with React. :)
     </Layout>
 );
 

@@ -9,7 +9,6 @@ const Layout = (props) => (
         </Head>
         <Navigation/>
         <div className="container">
-            
             {props.children}
         </div>
     </div>

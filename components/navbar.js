@@ -1,11 +1,11 @@
-import {Navbar} from 'react-bootstrap'
-import {Nav} from 'react-bootstrap'
+import {Navbar} from 'react-bootstrap';
+import {Nav} from 'react-bootstrap';
 
 const Navigation = () => (
     <div className="navigation">
     <Navbar expand="sm">
         <div className="container">
-            <Navbar.Brand href="/">Pokedex</Navbar.Brand>
+            <Navbar.Brand href="/"><img src="/static/icons/pokeball.svg" height="30px" width="30px"/></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
