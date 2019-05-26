@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import Navigation from './navbar'
+import Head from 'next/head';
+import Navigation from './navbar';
 
 const Layout = (props) => (
     <div>
