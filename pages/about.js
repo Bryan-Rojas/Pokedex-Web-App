@@ -1,9 +1,9 @@
 import Layout from '../components/layout'
 
-const Index = () => (
+const About = () => (
     <Layout>
-        wlecopme to home
+        wlecopme to aboutr
     </Layout>
 );
 
-export default Index;
+export default About;

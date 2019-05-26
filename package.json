@@ -4,8 +4,10 @@
   "description": "Pokedex Web App",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "next": "^8.1.0",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6"
   },
   "devDependencies": {},

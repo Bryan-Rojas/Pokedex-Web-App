@@ -1,9 +1,9 @@
 import Layout from '../components/layout'
 
-const Index = () => (
+const Pokemon = () => (
     <Layout>
-        wlecopme to home
+        Pokemon
     </Layout>
 );
 
-export default Index;
+export default Pokemon;
