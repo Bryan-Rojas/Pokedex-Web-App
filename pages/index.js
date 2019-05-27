@@ -16,6 +16,16 @@ const Index = (props) => (
             <PkmnCard/>
             <PkmnCard/>
             <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
+            <PkmnCard/>
         </div>
 
     </Layout>

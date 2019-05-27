@@ -34,7 +34,7 @@ function SimpleCard() {
         (Pokemon Image)
       </CardContent>
       <CardActions>
-        <Button size="small">Learn More</Button>
+        <Button size="small">Pokemon's Profile</Button>
       </CardActions>
     </Card>
     <br/>
